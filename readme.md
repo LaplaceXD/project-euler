@@ -30,3 +30,7 @@ me keep track how far I have gone in competitive programming. All of the solutio
 ## Usage
 
 Fork this repo to get access to the source code, and make sure your pc supports `C/C++`.
+
+## License
+
+[MIT](https://raw.githubusercontent.com/LaplaceXD/project-euler/master/LICENSE)
